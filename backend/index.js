@@ -19,7 +19,7 @@ app.use(cookieParser());
 
 // CORS Configuration
 const corsOptions = {
-    origin: 'http://localhost:3000',
+    origin: 'https://job-portal-virid-pi.vercel.app',
     credentials: true
 };
 app.use(cors(corsOptions));
