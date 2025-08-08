@@ -1,1 +1,1 @@
-export const BACKEND_URL = "http://localhost:8500";
+export const BACKEND_URL = "https://job-portal-zfsu.onrender.com";
